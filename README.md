@@ -1,7 +1,7 @@
-# cse331 Campus Paths Project
+# CampusPaths
+CampusPaths was a class project that involved creating an Android app allowing the user to find shortest paths between locations on the UW-Seattle campus. To complete the project, I had to first design a graph implementation before adding methods which ran BFS and Dijkstra's algorithms on the graph. \
+The implementation was tested by searching for connections between characters in the Marvel Comics universe, before being used in the Android App.
 
-This is a simple class project, mainly using Java, which involved designing and testing a graph implementation. Later, we were required to implement Breadth-First-Search using a priority queue and Dijkstra's algorithm to find the shortest path between two nodes.
-
-Initally this was used to find cross-overs between two comic book characters in the Marvel universe (as evidenced by the class titled MarvelPaths).
-
-The final project for this class was an Android app which would find the shortest paths between buildings on the UW-Seattle campus.
+### Technologies
+* Java 8
+* Android Studio
